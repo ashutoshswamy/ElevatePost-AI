@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# ElevatePost AI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ElevatePost AI is a modern AI-powered LinkedIn post generator that helps you craft engaging professional content quickly and efficiently. Using Google's Gemini AI, it generates contextually appropriate posts tailored to your specific audience and purpose.
 
-## Available Scripts
+## About
 
-In the project directory, you can run:
+ElevatePost AI transforms the way you create LinkedIn content by leveraging advanced artificial intelligence to create well-crafted, professional posts. Whether you need thought leadership content, industry news updates, career advice, or personal achievements, ElevatePost AI adapts to your specific requirements.
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **AI-Powered Content Generation**: Leverages Google's Gemini AI to create professional LinkedIn posts
+- **Customizable Tone**: Choose from professional, conversational, inspirational, educational, humorous, and more
+- **Audience Targeting**: Tailor your content for specific professional audiences
+- **Content Type Selection**: Generate various types of content including thought leadership, industry news, career advice
+- **Flexible Length Options**: Create short, medium, or long posts based on your needs
+- **Hashtag Control**: Include all relevant hashtags, minimal hashtags, or none at all
+- **Markdown Formatting**: Posts are formatted with proper spacing for better readability
+- **Copy to Clipboard**: Easily copy generated content with one click
+- **Regeneration Option**: Refine your content without changing parameters
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies Used
 
-### `npm test`
+- React
+- Google Generative AI (Gemini)
+- Custom CSS
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Developer
 
-### `npm run build`
+Developed by [Ashutosh Swamy](https://github.com/ashutoshswamy)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- GitHub: [ashutoshswamy](https://github.com/ashutoshswamy)
+- LinkedIn: [ashutoshswamy](https://linkedin.com/in/ashutoshswamy)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## License
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is licensed under the MIT License - see the LICENSE file for details.
